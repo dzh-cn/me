@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>董智华的简历</title>
 </head>
 <body>
     <h2>董智华</h2>
@@ -46,7 +45,7 @@
     <ul>
         <li>语言库：Java，Python，Node.js</li>
         <li>掌握技能：Maven,Mybatis,SpringBoot,Dubbo,ActiveMq,Mysql,Html,Javascript,Jquery,Freemarker</li>
-        <li>最近使用：Redis,Mongodb,ElasticSearch,SpringData,MybatisPlus,Fork/Join</li>
+        <li>最近使用：Redis,Mongodb,ElasticSearch,Markdown,SpringData,MybatisPlus,Fork/Join</li>
     </ul>
 </body>
 </html>
