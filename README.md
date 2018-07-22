@@ -44,8 +44,8 @@
     <h3>技术库</h3>
     <ul>
         <li>语言库：Java，Python，Node.js</li>
-        <li>掌握技能：Maven,Mybatis,SpringBoot,Dubbo,ActiveMq,Mysql,Html,Javascript,Jquery,Freemarker</li>
-        <li>最近使用：Redis,Mongodb,ElasticSearch,Markdown,SpringData,MybatisPlus,Fork/Join</li>
+        <li>掌握技能：Maven,Mybatis,SpringBoot,Dubbo,ActiveMq,Mysql,Html,Javascript,Jquery,Freemarker,Nginx,Linux</li>
+        <li>最近使用：Redis,Mongodb,ElasticSearch,Markdown,vue,SpringData,MybatisPlus,Fork/Join</li>
     </ul>
 </body>
 </html>
